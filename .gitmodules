@@ -1,0 +1,3 @@
+[submodule "bank-site-2024-frontend"]
+	path = bank-site-2024-frontend
+	url = https://github.com/Rodrigo-Sebastian/bank-site-2024-frontend.git
